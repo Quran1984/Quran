@@ -5,7 +5,7 @@
 <br><br>
 <br><br>
 
-https://rn0x.github.io/Quran_Website/
+https://github.com/Quran1984/Quran.github.io.git
  
 
 <b> صور للموقع</b><br>
